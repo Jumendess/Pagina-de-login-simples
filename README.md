@@ -15,10 +15,11 @@ Insira as credenciais (email e senha) para testar o login.
 Próximos Passos
 Implementar um sistema de autenticação real, como integração com um banco de dados ou serviço de autenticação.
 Aprimorar o design da página de login.
-Autor
-Julio Mendes
+
+# Autor
+<h3>Julio Mendes</h3>
 
 Licença
 Este projeto está sob a licença Licença XYZ, que é uma licença open source.
 
-Fique à vontade para personalizar esse resumo de acordo com as necessidades específicas do seu projeto. Certifique-se de substituir "Seu Nome" pelo seu nome ou nome de usuário no GitHub e fornecer um link apropriado para a licença usada em seu projeto.
+
